@@ -1,9 +1,9 @@
-package Assignments;
+package assignments;
 
 import java.text.DecimalFormat;
 import java.util.Scanner;
 
-public class AreaOfCirlceQ4 {
+public class AreaOfCirlceQ5AndQ6 {
 
 	public static void main(String[] args) {
 		

@@ -1,8 +1,8 @@
-package Assignments;
+package assignments;
 
 import java.util.Scanner;
 
-public class AreaOfRecQ4 {
+public class AreaOfRecQ5AndQ6 {
 
 	public static void main(String[] args) {
 		
